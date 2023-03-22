@@ -1,0 +1,19 @@
+{
+  "name": "plotting-project",
+  "version": "1.0.0",
+  "description": "In this website users can create,get,update,delete the details.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chandranath1998/plotting-project.git"
+  },
+  "author": "Chandranath Gupta &  Gaurav Pise",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chandranath1998/plotting-project/issues"
+  },
+  "homepage": "https://github.com/chandranath1998/plotting-project#readme"
+}
